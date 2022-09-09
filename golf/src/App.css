@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: goldenrod;
+  /* background-color: goldenrod; */
 }
 
 .App-wall{
@@ -46,7 +46,7 @@ nav{
   justify-content: space-around ;
   align-items: center;
   min-height: 15vh;
-  background-color:gray;
+  background-color:yellowgreen;
   color: aliceblue;
 }
 .navs{
